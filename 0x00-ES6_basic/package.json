@@ -9,7 +9,7 @@
     "build": "babel . -d dist",
     "dev": "node 0-main.js",
     "dev": "node 1-main.js",
-    "dev": "node 2-main.js",
+     "dev": "node 2-main.js",
     "dev": "node 3-main.js",
     "dev": "node 4-main.js",
     "dev": "node 5-main.js",
