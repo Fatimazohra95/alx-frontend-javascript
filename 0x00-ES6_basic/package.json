@@ -7,8 +7,24 @@
     "test": "jest",
     "lint": "eslint .",
     "build": "babel . -d dist",
-    "dev": "node 0-main.js"
-  },
+    "dev": "node 0-main.js",
+    "dev": "node 1-main.js",
+    "dev": "node 2-main.js",
+    "dev": "node 3-main.js",
+    "dev": "node 4-main.js",
+    "dev": "node 5-main.js",
+    "dev": "node 6-main.js",
+    "dev": "node 7-main.js",
+    "dev": "node 8-main.js",
+    "dev": "node 9-main.js",
+    "dev": "node 10-main.js",
+    "dev": "node 11-main.js",
+     "dev": "node 12-main.js",
+     "dev": "node 100-main.js",
+     "dev": "node 101-main.js"
+
+    },
+
   "author": "",
   "license": "ISC",
   "type": "module",
