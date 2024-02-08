@@ -1,4 +1,5 @@
-import ClassRoom from './0-classroom';
+// 1-make_classrooms.js
+import ClassRoom from './0-classroom.js';
 
 function initializeRooms() {
   const rooms = [
@@ -10,4 +11,3 @@ function initializeRooms() {
 }
 
 export default initializeRooms;
-
