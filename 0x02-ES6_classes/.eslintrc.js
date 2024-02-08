@@ -27,8 +27,6 @@ module.exports = {
       'LabeledStatement',
       'WithStatement',
     ],
-    'import/extensions': ['error', 'ignorePackages'],
-    'no-trailing-spaces': 'error', // Enable no-trailing-spaces rule
   },
   overrides:[
     {
@@ -37,4 +35,3 @@ module.exports = {
     }
   ]
 };
-
